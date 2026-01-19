@@ -2,9 +2,9 @@
   "name": "assignment7",
   "version": "1.0.0",
   "description": "",
-  "main": "/src/main.js",
+  "main": "./src/moamen-khaled_NodeC45mon-thurs_8-30Pm_online-Assignment-7_01033703690.js",
   "scripts": {
-    "start:dev": "node --watch-path=. ./src/main.js"
+    "start:dev": "node --watch-path=. \"./src/moamen-khaled_NodeC45mon&thurs_8-30Pm_online-Assignment-7_01033703690.js\""
   },
   "keywords": [],
   "author": "",
